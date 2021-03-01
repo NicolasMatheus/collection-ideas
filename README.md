@@ -1,6 +1,6 @@
 ## Collection
 
-> **Trying to resolve all those projects, original [SOURCE](https://github.com/florinpop17/app-ideas)**
+> **Trying to resolve all those projects, [SOURCE](https://github.com/florinpop17/app-ideas)**
 
 ### Tier-1: Beginner Projects
 
